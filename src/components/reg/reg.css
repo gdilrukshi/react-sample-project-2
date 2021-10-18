@@ -1,0 +1,42 @@
+.button {
+    align-items: flex-end;
+    float: right !important;
+}
+
+.topic {
+    color: blanchedalmond;
+}
+
+.regimg {
+    margin-top: 100px;
+    margin-left: 50px;
+    width: 800px;
+    height: 600px;
+}
+
+.regform {
+    background-color: transparent;
+    background-blend-mode: darken;
+    margin-top: 40px;
+    margin-right: 50px;
+    border: solid;
+    border-color: blanchedalmond;
+    padding: 10px;
+    border-radius: 30px;
+    height: 580px;
+}
+
+.c {
+    background-color: transparent;
+    background-blend-mode: darken;
+}
+
+.a {
+    background-image: url('../../images/17.jpg');
+    background-size: cover;
+    height: 774px;
+}
+
+.btn-primary {
+    width: 100% !important;
+}
